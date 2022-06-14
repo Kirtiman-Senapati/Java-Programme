@@ -6,7 +6,7 @@
     {
         try
         {
-           FileWriter v= new FileWriter("C:\\Program Files (x86)\\createFile.txt");
+           FileWriter v= new FileWriter("D:\\createFile.txt");
             v.write("\n My name is kirtiman \n my aim is to do something for country ");
             v.close();
             System.out.println("comtent is successfully wrote in File");
