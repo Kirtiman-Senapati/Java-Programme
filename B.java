@@ -23,4 +23,8 @@ class B
         Dog obj=newDog();
         System.out.println(obj.speedlimit);
     }
+
+    private static Dog newDog() {
+        return null;
+    }
 }
