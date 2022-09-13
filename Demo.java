@@ -21,4 +21,4 @@ class Demo
   D R = new D();
   R.drink();
 }
-}
+}//it is use for demo
